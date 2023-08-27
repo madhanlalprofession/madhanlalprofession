@@ -35,4 +35,4 @@ Feel free to reach out via email at [madhanlalprofession@gmail.com](mailto:madha
 
 Thank you for visiting, and I'm eagerly looking forward to our connection!
 
-![Profile Image](https://github.com/madhanlalprofession/madhanlalprofession/blob/main/assets/profile_image.jpg)
+
