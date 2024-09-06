@@ -1,10 +1,10 @@
 # About Me
 
-Hello there! 👋 I'm Madhanlal S, a dedicated student with a profound passion for the realm of programming and an insatiable thirst for learning. My ultimate aspiration is to secure a coveted position within an esteemed IT company, where I can channel my skills and enthusiasm to make impactful contributions to innovative projects.
+Hello there! 👋 I'm Madhanlal S, a dedicated software engineer with a profound passion for the realm of programming and an insatiable thirst for learning. My ultimate aspiration is to secure a coveted position within an esteemed IT company, where I can channel my skills and enthusiasm to make impactful contributions to innovative projects.
 
 ## Background and Education
 
-🎓 I am currently pursuing a Bachelor's degree in Computer Science Engineering at Sri Ranganathar Institute of Engineering and Technology. My academic journey has endowed me with a robust foundation in essential aspects such as data structures, algorithms, and programming languages like Python and Java, nurturing my fascination for the rapidly evolving tech landscape.
+🎓 I am graduate in Bachelor's degree in Computer Science Engineering at Sri Ranganathar Institute of Engineering and Technology. My academic journey has endowed me with a robust foundation in essential aspects such as data structures, algorithms, and programming languages like Python and Java, nurturing my fascination for the rapidly evolving tech landscape.
 
 ## Programming Enthusiast
 
